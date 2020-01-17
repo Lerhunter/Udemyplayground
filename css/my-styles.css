@@ -2,11 +2,17 @@ body{
   background-color: grey;
 }
 .cloud-1{
-  text-align: center;
+  position: absolute;
+  top: 150px;
+  left: 200px;
 }
 .cloud-2{
-  text-align: center;
+  position:absolute;
+  top: 50px;
+  right: 100px;
 }
 .mountain{
-  text-align: center;
+  position: relative;
+  margin-top: 250px;
+  margin-left: 300px;
 }
