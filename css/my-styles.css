@@ -1,3 +1,33 @@
 body{
-  background-color: grey;
+  background-color: #f1fcfc;
+}
+
+h1{
+  margin-top: 60px;
+  font-family: serif;
+}
+
+p{
+  font-family: Playfair;
+}
+
+.profile{
+  height: 250px;
+  width: 450px;
+}
+
+hr{
+  height: 0;
+  margin:20px;
+  border-style: dotted;
+  border-color: #633a82;
+  border-top: 20px;
+}
+
+.order{
+  padding-left:0;
+}
+
+li{
+  width: 200px;
 }
