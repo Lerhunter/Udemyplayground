@@ -11,11 +11,6 @@ p{
   font-family: Playfair;
 }
 
-.profile{
-  height: 250px;
-  width: 450px;
-}
-
 hr{
   height: 0;
   margin:20px;
@@ -24,10 +19,18 @@ hr{
   border-top: 20px;
 }
 
+li{
+  width: 400px;
+}
+.profile{
+  height: 250px;
+  width: 450px;
+}
+
 .order{
   padding-left:0;
 }
 
-li{
-  width: 200px;
+.edu{
+  padding-left: 0;
 }
